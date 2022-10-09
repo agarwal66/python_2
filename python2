@@ -1,0 +1,10 @@
+a = int(input("ENTER YOUR FIRST NUMBER"))
+b = int(input("ENTER YOUR SECOND NUMBER"))
+
+#a = int(input(""))
+#b = int(input(""))
+print(a-b)
+print(a+b)
+print(a*b)
+print(a/b)
+print(a%b)
